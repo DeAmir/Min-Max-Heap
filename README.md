@@ -1,6 +1,6 @@
 # Max-Min-Heap
 A python implementation of max-min heap.\
-A max-min heap is an almost complete binary tree, in which each node at even depth is bigger than (or equal to) every children of his, and each node at odd depth is lower than (or equal to) every children of it.
+A [max-min](https://en.wikipedia.org/wiki/Min-max_heap) heap is an almost complete binary tree, in which each node at even depth is bigger than (or equal to) every children of his, and each node at odd depth is lower than (or equal to) every children of it.
 
 
 The user can choose to load values from a file of his choosing (pass a filename as a command line argument), to build the heap from. Alternively, he could choose to give the values in the console by hand.
