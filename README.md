@@ -1,5 +1,5 @@
 # Max-Min-Heap
-This project is a part of an assignment in the course Introduction to Algorithms and Data Structures as part in my B.Sc in the Open University of Israel.
+This project is a part of an assignment in the course Introduction to Algorithms and Data Structures as part of my B.Sc degree in the Open University of Israel.
 
 A python implementation of max-min heap.\
 A [max-min](https://en.wikipedia.org/wiki/Min-max_heap) heap is an almost complete binary tree, in which each node at even depth is bigger than (or equal to) every children of his, and each node at odd depth is lower than (or equal to) every children of it.
